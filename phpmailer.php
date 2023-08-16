@@ -14,8 +14,8 @@ $dbName = 'newsletter_nss';
 
 // Email configuration
 $smtpHost = 'smtp.gmail.com';
-$smtpUsername = 'palusaabhinavaram@gmail.com';
-$smtpPassword = 'drhokvibgrzvylwl';
+$smtpUsername = '';
+$smtpPassword = '';
 $smtpPort = 587;
 $smtpEncryption = 'tsl';
 
